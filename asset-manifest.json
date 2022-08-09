@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/morrisdesign/static/css/main.073c9b0a.css",
+    "main.js": "/morrisdesign/static/js/main.baac96ea.js",
+    "static/js/787.924567e0.chunk.js": "/morrisdesign/static/js/787.924567e0.chunk.js",
+    "static/media/logo.png": "/morrisdesign/static/media/logo.93c0b775352ebd0a51a6.png",
+    "index.html": "/morrisdesign/index.html",
+    "main.073c9b0a.css.map": "/morrisdesign/static/css/main.073c9b0a.css.map",
+    "main.baac96ea.js.map": "/morrisdesign/static/js/main.baac96ea.js.map",
+    "787.924567e0.chunk.js.map": "/morrisdesign/static/js/787.924567e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.baac96ea.js"
+  ]
+}
